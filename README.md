@@ -13,7 +13,7 @@ A programming language that we're making in Python. It has C-like syntax, and sh
 
     start {
 
-        for i, from(0, 20) {
+        repeat 20 {
     
             out("Hello");
         
