@@ -2,21 +2,21 @@
 A programming language that we're making in Python. It has C-like syntax, and should be easy for beginners to learn.
 #Sample hello world:
 
-start {
+    start {
 
-    out("Hello, World!");
+        out("Hello, World!");
     
-}
+    }
 
 
 #Sample program that outputs "Hello" 20 times:
 
-start {
+    start {
 
-    for i, from(0, 20) {
+        for i, from(0, 20) {
     
-        out("Hello");
+            out("Hello");
         
-    };
+        };
     
-}
+    }
