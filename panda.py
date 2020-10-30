@@ -1,4 +1,7 @@
 tokens = {
+    " ":"SPACE",
+    "\t":"TAB",
+    "\n":"EOL",
     "+":"PLUS",
     "-":"MINUS",
     "*":"MUL",
