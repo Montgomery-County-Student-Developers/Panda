@@ -1,6 +1,6 @@
 # Panda
 A programming language that we're making in Python. It has C-like syntax, and should be easy for beginners to learn.
-#Sample hello world:
+# Sample hello world:
 
     start {
 
@@ -9,7 +9,7 @@ A programming language that we're making in Python. It has C-like syntax, and sh
     }
 
 
-#Sample program that outputs "Hello" 20 times:
+# Sample program that outputs "Hello" 20 times:
 
     start {
 
