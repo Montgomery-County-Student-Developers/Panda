@@ -4,7 +4,7 @@ A programming language that we're making in Python. It has C-like syntax, and sh
 
     start {
 
-        out("Hello, World!");
+        say("Hello, World!");
     
     }
 
@@ -15,7 +15,7 @@ A programming language that we're making in Python. It has C-like syntax, and sh
 
         repeat 20 {
     
-            out("Hello");
+            say("Hello");
         
         };
     
