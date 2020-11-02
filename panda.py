@@ -84,5 +84,5 @@ def parse(code:list):
     pass
 
 
-def evaluate(code:list):
+def transpile(code:list):
     pass
